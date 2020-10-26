@@ -6,7 +6,7 @@ My name is Ankit, and I am a PhD student at University of Western Ontario, Canad
 
 
 - 🔭 I’m currently working on mechanics of geological structures in Earth's lithosphere.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning to simulate earthquakes in Pylith 
 - 👯 I’m looking to collaborate on research on Slow-slip events in brittle-ductile transition zone in lithosphere.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: What is the meaning of life ? 
