@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Ankit, and I am a PhD candidate at University of Western Ontario, Canada. 
+My name is Ankit, and I am a recent PhD graduate from the University of Western Ontario, Canada. 
 
 
 
